@@ -25,4 +25,3 @@ Throughout this course, you’ll learn:
 
 ---
 
-Happy Learning! ✨  
