@@ -25,5 +25,3 @@ Throughout this course, you’ll learn:
 
 
 
-hgfrdtt
-
