@@ -21,4 +21,6 @@ Throughout this course, you’ll learn:
 - Both **Front-end** and **Back-end** development  
 - How to seamlessly integrate **databases**  
 - Real-world **project implementation**  
-- And a lot more! 🚀  
+- And a lot more! 🚀
+  
+---
