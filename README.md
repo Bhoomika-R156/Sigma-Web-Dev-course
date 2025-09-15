@@ -22,5 +22,5 @@ Throughout this course, you’ll learn:
 - How to seamlessly integrate **databases**  
 - Real-world **project implementation**  
 - And a lot more! 🚀
-  
----
+
+  ---
