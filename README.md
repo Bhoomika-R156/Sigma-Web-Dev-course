@@ -3,7 +3,7 @@
 Welcome to **Sigma's Web Development Course**!  
 If you've been eager to dive into the world of web development but feel lost in a sea of English tutorials, you're in the right place.  
 
-This course is **exclusively in Hindi** and crafted to guide you step by step — from being an **absolute beginner** to a **seasoned pro**.  
+This course is **exclusively** and crafted to guide you step by step — from being an **absolute beginner** to a **seasoned pro**.  
 
 ---
 
